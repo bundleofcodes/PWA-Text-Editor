@@ -19,12 +19,18 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 - [Questions](#questions)
 
 ## Technologies:
--
+- JavaScript
+- Express
+- NodeJS
+- IndexedDB
+- Babel
+- Consurrently
+- Webpack+Workbox
 
 ## Installation:
 - Fork and clone repository to local machine
 - Open integrated terminal in personal IDE
-- Run `npm install` to install dependencies in local projecrt directory
+- Run `npm i` to install dependencies in local projecrt directory
 
 ## Usage:
 
@@ -33,12 +39,13 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 
 - Application Screenshot:
 
-- ![Application Screenshot](/images/BSE-Screenshot1.jpeg) //edit
+- ![Application Screenshot](/screenshot/JATE-Screenshot.jpeg)
+- ![Application Screenshot](/screenshot/JATE-Screenshot2.png)
 
 
 
 - [Click here to view the Repository URL](https://github.com/bundleofcodes/PWA-Text-Editor)
-- [Click here to view the Deployed URL](https://young-lowlands-44571-b7a8f7d70044.herokuapp.com/) //edit
+- [Click here to view the Deployed URL](https://just-another-text-editor23-2add6b308184.herokuapp.com/)
 
 ## Credits:
 
